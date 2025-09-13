@@ -6,7 +6,7 @@ project:
   description:  "Test structures for a future register file macro"
   language:     "Analog"
   clock_hz:     0
-  tiles:        "2x2"
+  tiles:        "1x2"
   analog_pins:  0
   uses_3v3:     false
   top_module:   "tt_um_tnt_rf_test"
